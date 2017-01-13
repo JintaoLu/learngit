@@ -1,2 +1,3 @@
 # learngit
 \n# add a branch dev
+Creating a new branch is quick & simple.
